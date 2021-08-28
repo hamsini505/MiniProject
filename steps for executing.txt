@@ -1,0 +1,9 @@
+Steps for executing our project:
+1. Open anaconda prompt.
+2. Go  to folder location.
+3. Enter the command.
+	jupyter notebook
+4. Enter the command python app.py.
+5. A URL is displayed to run in browser, copy and paste it in browser.
+6. Enter the URL to be tested in the input box.
+7. Result will be diaplayed.
